@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387851317455",
+    "firebase_url": "https://fir-signin-3c2bd.firebaseio.com",
+    "project_id": "fir-signin-3c2bd",
+    "storage_bucket": "fir-signin-3c2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387851317455:android:10caa4f147c059b41947ba",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387851317455-gn05dnkc9an0v62pbi44ps6dlbg5d6uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8d8pDDIfwomLB2jRQe4P7avhe081__9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387851317455-gn05dnkc9an0v62pbi44ps6dlbg5d6uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
